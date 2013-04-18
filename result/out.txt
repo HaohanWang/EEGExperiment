@@ -1,0 +1,525 @@
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          60               89.5522 %
+Incorrectly Classified Instances         7               10.4478 %
+Kappa statistic                          0     
+Mean absolute error                      0.1045
+Root mean squared error                  0.3232
+Relative absolute error                 20.9632 %
+Root relative squared error             64.8552 %
+Coverage of cases (0.95 level)          89.5522 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances               67     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0  7 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          58               89.2308 %
+Incorrectly Classified Instances         7               10.7692 %
+Kappa statistic                          0     
+Mean absolute error                      0.1077
+Root mean squared error                  0.3282
+Relative absolute error                 21.6767 %
+Root relative squared error             66.0535 %
+Coverage of cases (0.95 level)          89.2308 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances               65     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0  7 |  a = 0
+  0 58 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          60               89.5522 %
+Incorrectly Classified Instances         7               10.4478 %
+Kappa statistic                          0     
+Mean absolute error                      0.1045
+Root mean squared error                  0.3232
+Relative absolute error                 20.9632 %
+Root relative squared error             64.8552 %
+Coverage of cases (0.95 level)          89.5522 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances               67     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0  7 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances           7                9.7222 %
+Incorrectly Classified Instances        65               90.2778 %
+Kappa statistic                          0     
+Mean absolute error                      0.9028
+Root mean squared error                  0.9501
+Relative absolute error                179.6603 %
+Root relative squared error            189.0858 %
+Coverage of cases (0.95 level)           9.7222 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances               72     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  7  0 |  a = 0
+ 65  0 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          69              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances               69     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  7  0 |  a = 0
+  0 62 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances         122              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              122     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 62  0 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          58               48.3333 %
+Incorrectly Classified Instances        62               51.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.5167
+Root mean squared error                  0.7188
+Relative absolute error                102.884  %
+Root relative squared error            141.9324 %
+Coverage of cases (0.95 level)          48.3333 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              120     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 58 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          60               49.1803 %
+Incorrectly Classified Instances        62               50.8197 %
+Kappa statistic                          0     
+Mean absolute error                      0.5082
+Root mean squared error                  0.7129
+Relative absolute error                101.4149 %
+Root relative squared error            140.9878 %
+Coverage of cases (0.95 level)          49.1803 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              122     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          65               51.1811 %
+Incorrectly Classified Instances        62               48.8189 %
+Kappa statistic                          0     
+Mean absolute error                      0.4882
+Root mean squared error                  0.6987
+Relative absolute error                 97.941  %
+Root relative squared error            138.9802 %
+Coverage of cases (0.95 level)          51.1811 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              127     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 65 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          62               50      %
+Incorrectly Classified Instances        62               50      %
+Kappa statistic                          0     
+Mean absolute error                      0.5   
+Root mean squared error                  0.7071
+Relative absolute error                100      %
+Root relative squared error            140.3985 %
+Coverage of cases (0.95 level)          50      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              124     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 62 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances         120              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              120     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 60  0 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          58               49.1525 %
+Incorrectly Classified Instances        60               50.8475 %
+Kappa statistic                          0     
+Mean absolute error                      0.5085
+Root mean squared error                  0.7131
+Relative absolute error                101.4784 %
+Root relative squared error            141.2023 %
+Coverage of cases (0.95 level)          49.1525 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              118     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 60 |  a = 0
+  0 58 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          60               50      %
+Incorrectly Classified Instances        60               50      %
+Kappa statistic                          0     
+Mean absolute error                      0.5   
+Root mean squared error                  0.7071
+Relative absolute error                100      %
+Root relative squared error            140.2441 %
+Coverage of cases (0.95 level)          50      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              120     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 60 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          65               52      %
+Incorrectly Classified Instances        60               48      %
+Kappa statistic                          0     
+Mean absolute error                      0.48  
+Root mean squared error                  0.6928
+Relative absolute error                 96.4857 %
+Root relative squared error            138.1659 %
+Coverage of cases (0.95 level)          52      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              125     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 60 |  a = 0
+  0 65 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          62               50.8197 %
+Incorrectly Classified Instances        60               49.1803 %
+Kappa statistic                          0     
+Mean absolute error                      0.4918
+Root mean squared error                  0.7013
+Relative absolute error                 98.5476 %
+Root relative squared error            139.5889 %
+Coverage of cases (0.95 level)          50.8197 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              122     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 60 |  a = 0
+  0 62 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances         119              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              119     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 59  0 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          58               49.5726 %
+Incorrectly Classified Instances        59               50.4274 %
+Kappa statistic                          0     
+Mean absolute error                      0.5043
+Root mean squared error                  0.7101
+Relative absolute error                100.7485 %
+Root relative squared error            140.8111 %
+Coverage of cases (0.95 level)          49.5726 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              117     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 59 |  a = 0
+  0 58 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          60               50.4202 %
+Incorrectly Classified Instances        59               49.5798 %
+Kappa statistic                          0     
+Mean absolute error                      0.4958
+Root mean squared error                  0.7041
+Relative absolute error                 99.2658 %
+Root relative squared error            139.8463 %
+Coverage of cases (0.95 level)          50.4202 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              119     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 59 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          65               52.4194 %
+Incorrectly Classified Instances        59               47.5806 %
+Kappa statistic                          0     
+Mean absolute error                      0.4758
+Root mean squared error                  0.6898
+Relative absolute error                 95.7324 %
+Root relative squared error            137.7325 %
+Coverage of cases (0.95 level)          52.4194 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              124     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 59 |  a = 0
+  0 65 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          62               51.2397 %
+Incorrectly Classified Instances        59               48.7603 %
+Kappa statistic                          0     
+Mean absolute error                      0.4876
+Root mean squared error                  0.6983
+Relative absolute error                 97.795  %
+Root relative squared error            139.1575 %
+Coverage of cases (0.95 level)          51.2397 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              121     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 59 |  a = 0
+  0 62 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances         122              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              122     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 62  0 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          58               48.3333 %
+Incorrectly Classified Instances        62               51.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.5167
+Root mean squared error                  0.7188
+Relative absolute error                102.884  %
+Root relative squared error            141.9324 %
+Coverage of cases (0.95 level)          48.3333 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              120     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 58 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          60               49.1803 %
+Incorrectly Classified Instances        62               50.8197 %
+Kappa statistic                          0     
+Mean absolute error                      0.5082
+Root mean squared error                  0.7129
+Relative absolute error                101.4149 %
+Root relative squared error            140.9878 %
+Coverage of cases (0.95 level)          49.1803 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              122     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 60 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          65               51.1811 %
+Incorrectly Classified Instances        62               48.8189 %
+Kappa statistic                          0     
+Mean absolute error                      0.4882
+Root mean squared error                  0.6987
+Relative absolute error                 97.941  %
+Root relative squared error            138.9802 %
+Coverage of cases (0.95 level)          51.1811 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              127     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 65 |  b = 1
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          62               50      %
+Incorrectly Classified Instances        62               50      %
+Kappa statistic                          0     
+Mean absolute error                      0.5   
+Root mean squared error                  0.7071
+Relative absolute error                100      %
+Root relative squared error            140.3985 %
+Coverage of cases (0.95 level)          50      %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              124     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+  0 62 |  a = 0
+  0 62 |  b = 1
